@@ -1,0 +1,6 @@
+{
+  "name": "SIBEBEB - 3D Talking Character Chatbot",
+  "description": "Chatbot interaktif karakter 3D SIBEBEB dengan avatar responsif, sinkronisasi suara real-time, ekspresi dinamis, analisis sentimen, dan dasbor konfigurasi gaya bicara.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
